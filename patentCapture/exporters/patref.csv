@@ -1,0 +1,297 @@
+,date,is_belong_us,name,nr,patnr,refnr
+0,April 2008,Y,Bange,nr7,7359753,1
+1,June 2015,Y,Ding,nr7,9055513,2
+2,February 2017,Y,Park,nr7,9572007,3
+3,February 2011,Y,Gong et al.,nr7,2011/0038290,4
+4,October 2014,Y,Abraham et al.,nr7,2014/0301295,5
+5,October 2014,Y,Shukla,nr7,2014/0313966,6
+6,July 2015,Y,Kasslin et al.,nr7,2015/0200811,7
+7,November 2015,Y,Park et al.,nr7,2015/0319675,8
+8,December 2015,Y,Park et al.,nr7,2015/0358800,9
+9,January 2016,Y,Segev et al.,nr7,2016/0014565,10
+10,April 2017,Y,Park,nr7,2017/0111782,11
+11,April 2017,Y,Park et al.,nr7,2017/0111862,12
+0,September 2011,Y,Heinze et al.,nr5,8026814,1
+1,May 2016,Y,Lee,nr5,9332477,2
+2,March 2009,Y,Geissler et al.,nr5,2009/0058653,3
+3,April 2015,Y,Cohen,nr5,2015/0119076,4
+4,December 2015,Y,Daoura et al.,nr5,2015/0356858,5
+5,February 2018,Y,Afzal,nr5,2018/0038937,6
+0,July 2017,Y,Chu et al.,nr4,9699741,1
+1,July 2007,Y,Kim,nr4,2007/0155365,2
+2,November 2011,Y,Abraham,nr4,2011/0268054,3
+3,January 2013,Y,Kang et al.,nr4,2013/0010664,4
+4,May 2014,Y,Zhu,nr4,2014/0119288,5
+5,March 2015,Y,Merlin et al.,nr4,2015/0063111,6
+6,May 2015,Y,Chu,nr4,2015/0146654,7
+7,August 2015,Y,Park et al.,nr4,2015/0237654,8
+8,June 2016,Y,Kim et al.,nr4,2016/0165637,9
+9,July 2017,Y,Zhou et al.,nr4,2017/0202023,10
+10,Dec 2015,N,WO,nr4,WO-2015194727,1001
+0,October 2010,Y,Ulupinar,nr3,2010/0260109,1
+1,May 2012,Y,Hiramatsu,nr3,2012/0110100,2
+2,May 2013,Y,Tachibana,nr3,2013/0124737,3
+3,August 2014,Y,Tokunaga,nr3,2014/0226530,4
+4,Jan 2015,N,JP,nr3,2015-002426,1001
+0,July 2007,Y,Kumar et al.,nr2,2007/0169171,1
+1,September 2008,Y,Huang,nr2,2008/0232376,2
+0,August 2008,Y,Moe et al.,nr11,2008/0207207,1
+1,July 2009,Y,Chapin,nr11,2009/0170472,2
+2,December 2010,Y,Gerstenberger et al.,nr11,2010/0317351,3
+3,January 2011,Y,Horneman,nr11,2011/0021205,4
+4,November 2011,Y,Zhang et al.,nr11,2011/0274097,5
+5,January 2014,Y,Smith,nr11,2014/0016583,6
+6,October 2015,Y,Ghasemzadeh,nr11,2015/0281974,7
+7,November 2015,Y,Kim,nr11,2015/0341839,8
+8,March 2016,Y,Yu,nr11,2016/0094999,9
+9,April 2016,Y,Ahmavaara et al.,nr11,2016/0100331,10
+10,Jul 2009,N,WO,nr11,WO-2009088332,1001
+11,Aug 2016,N,WO,nr11,WO-2016123568,1002
+0,May 1999,Y,Neher,nr13,5905461,1
+1,May 2001,Y,Dabbiere,nr13,6226622,2
+2,October 2001,Y,Schafer,nr13,6300875,3
+3,March 2002,Y,Hamrick et al.,nr13,6356841,4
+4,May 2002,Y,Neher,nr13,6388612,5
+5,April 2004,Y,Edwards,nr13,6720879,6
+6,November 2004,Y,Durga et al.,nr13,6813498,7
+7,October 2005,Y,Raverdy et al.,nr13,6957217,8
+8,August 2006,Y,Engstrom et al.,nr13,7099921,9
+9,April 2007,Y,Wilson et al.,nr13,7203502,10
+10,August 2007,Y,Joao,nr13,7253731,11
+11,August 2007,Y,Casey,nr13,7259668,12
+12,May 2008,Y,Bostrom et al.,nr13,7379743,13
+13,February 2009,Y,Katz,nr13,7492251,14
+14,June 2009,Y,Loomis et al.,nr13,7551126,15
+15,October 2009,Y,Hokuf et al.,nr13,7602302,16
+16,June 2010,Y,Scalisi et al.,nr13,7728724,17
+17,November 2010,Y,Boling et al.,nr13,7830305,18
+18,August 2011,Y,Chou,nr13,7990264,19
+19,October 2011,Y,Pfafman et al.,nr13,8035510,20
+20,December 2011,Y,Gupta et al.,nr13,8073467,21
+21,October 2012,Y,Forstall et al.,nr13,8290513,22
+22,October 2012,Y,Thomas,nr13,8301158,23
+23,November 2012,Y,Adair,nr13,8315905,24
+24,January 2013,Y,Lohtia et al.,nr13,8364170,25
+25,May 2013,Y,Ramachandran,nr13,8442807,26
+26,May 2013,Y,Raduchel,nr13,8446272,27
+27,May 2013,Y,Anakata et al.,nr13,8447325,28
+28,August 2013,Y,Cameron,nr13,8514058,29
+29,September 2013,Y,Slavin et al.,nr13,8531294,30
+30,October 2013,Y,Brandt et al.,nr13,8558694,31
+31,October 2013,Y,Wohlwend et al.,nr13,8565735,32
+32,November 2013,Y,Huston et al.,nr13,8589488,33
+33,December 2013,Y,de Silva et al.,nr13,8606612,34
+34,February 2014,Y,Nelissen et al.,nr13,8644847,35
+35,April 2014,Y,Ben-Dayan et al.,nr13,8686852,36
+36,April 2014,Y,Skeen et al.,nr13,8700659,37
+37,May 2014,Y,Lau et al.,nr13,8725165,38
+38,June 2014,Y,Norton,nr13,8761797,39
+39,July 2014,Y,Farmer,nr13,8768375,40
+40,September 2014,Y,Hymel et al.,nr13,8825084,41
+41,September 2014,Y,Ginn et al.,nr13,8831577,42
+42,September 2014,Y,Vaananen,nr13,8838566,43
+43,September 2014,Y,Fan et al.,nr13,8849310,44
+44,November 2014,Y,"Kane, Jr. et al.",nr13,8886584,45
+45,December 2014,Y,Bates et al.,nr13,8924250,46
+46,March 2015,Y,Sandel et al.,nr13,8989773,47
+47,September 2016,Y,Lee et al.,nr13,9456298,48
+48,June 2003,Y,Miyamoto,nr13,2003/0114171,49
+49,September 2004,Y,Diacakis et al.,nr13,2004/0185875,50
+50,June 2007,Y,Huang et al.,nr13,2007/0146199,51
+51,September 2007,Y,Smith,nr13,2007/0214073,52
+52,February 2008,Y,Krumm et al.,nr13,2008/0032703,53
+53,June 2008,Y,Mock,nr13,2008/0153511,54
+54,October 2008,Y,Ettinger,nr13,2008/0262717,55
+55,December 2009,Y,Rosing,nr13,2009/0315704,56
+56,August 2010,Y,King et al.,nr13,2010/0217525,57
+57,March 2011,Y,Carpio et al.,nr13,2011/0053605,58
+58,April 2011,Y,Sharon et al.,nr13,2011/0083101,59
+59,May 2011,Y,Harple et al.,nr13,2011/0105143,60
+60,August 2011,Y,Ruuspakka et al.,nr13,2011/0207440,61
+61,September 2011,Y,Yon,nr13,2011/0234399,62
+62,September 2011,Y,Carr et al.,nr13,2011/0238476,63
+63,October 2011,Y,Ramer et al.,nr13,2011/0258049,64
+64,December 2011,Y,Dhingra et al.,nr13,2011/0295677,65
+65,September 2012,Y,Matthew et al.,nr13,2012/0233067,66
+66,October 2012,Y,Ross et al.,nr13,2012/0265841,67
+67,October 2012,Y,Shutter,nr13,2012/0271684,68
+68,November 2012,Y,Goldberg,nr13,2012/0284100,69
+69,November 2012,Y,Rosenblatt et al.,nr13,2012/0290336,70
+70,January 2013,Y,Altman et al.,nr13,2013/0013412,71
+71,March 2013,Y,Gadhia et al.,nr13,2013/0060640,72
+72,April 2013,Y,Hummel,nr13,2013/0090980,73
+73,November 2013,Y,Kannan et al.,nr13,2013/0304578,74
+74,December 2013,Y,Du et al.,nr13,2013/0332527,75
+75,January 2014,Y,Guggenheim,nr13,2014/0006069,76
+76,January 2014,Y,Stoliartchouk et al.,nr13,2014/0019248,77
+77,February 2014,Y,Hosein et al.,nr13,2014/0046802,78
+78,March 2014,Y,Castillo et al.,nr13,2014/0074604,79
+79,April 2014,Y,Luo et al.,nr13,2014/0094195,80
+80,May 2014,Y,Marti,nr13,2014/0122040,81
+81,June 2014,Y,Huang et al.,nr13,2014/0171024,82
+82,June 2014,Y,Conklin,nr13,2014/0213295,83
+83,August 2014,Y,Akgul et al.,nr13,2014/0222562,84
+84,September 2014,Y,Roka et al.,nr13,2014/0279014,85
+85,Feb 2011,N,CA,nr13,2770069,1001
+86,Jul 2003,N,WO,nr13,03060847,1002
+87,Jan 2007,N,WO,nr13,2007004999,1003
+88,Nov 2012,N,WO,nr13,2012148657,1004
+0,November 2008,Y,Ruan et al.,nr10,7447176,1
+1,March 2009,Y,Krumm et al.,nr10,7509131,2
+2,August 2011,Y,Scherzer et al.,nr10,8000276,3
+3,February 2012,Y,Barnum,nr10,8116285,4
+4,September 2012,Y,De Queiroz et al.,nr10,8262151,5
+5,November 2012,Y,Vincent,nr10,8320939,6
+6,January 2013,Y,Famolari et al.,nr10,8345599,7
+7,February 2013,Y,Ristich et al.,nr10,8374632,8
+8,October 2013,Y,Lin et al.,nr10,8559975,9
+9,October 2013,Y,Scherzer et al.,nr10,8565766,10
+10,October 2013,Y,Austin et al.,nr10,8570993,11
+11,March 2014,Y,Lin et al.,nr10,8665154,12
+12,June 2014,Y,Do et al.,nr10,8744484,13
+13,November 2014,Y,van de Ven et al.,nr10,8885565,14
+14,November 2014,Y,Garin et al.,nr10,8892118,15
+15,July 2015,Y,Gao et al.,nr10,9084122,16
+16,August 2015,Y,Teed-Gillen et al.,nr10,9113432,17
+17,August 2015,Y,Huang et al.,nr10,9118776,18
+18,September 2015,Y,Scherzer et al.,nr10,9137744,19
+19,October 2015,Y,Guday et al.,nr10,9161200,20
+20,October 2015,Y,Gao et al.,nr10,9167551,21
+21,November 2015,Y,Fischer et al.,nr10,9185516,22
+22,November 2015,Y,Mizutani,nr10,9185644,23
+23,November 2015,Y,Tzamaloukas,nr10,9185678,24
+24,January 2016,Y,Malik,nr10,9247520,25
+25,May 2016,Y,Mahapatra,nr10,9338592,26
+26,May 2016,Y,Guo et al.,nr10,9338740,27
+27,July 2016,Y,Basalamah,nr10,9401086,28
+28,August 2016,Y,Garin et al.,nr10,9432964,29
+29,September 2016,Y,Chow et al.,nr10,9451451,30
+30,October 2016,Y,Servals et al.,nr10,9467869,31
+31,November 2016,Y,Palanki et al.,nr10,9503858,32
+32,November 2016,Y,Lin et al.,nr10,9507747,33
+33,December 2016,Y,Akgul et al.,nr10,9516582,34
+34,March 2017,Y,Edge et al.,nr10,9609539,35
+35,March 2017,Y,Cootey,nr10,9609560,36
+36,June 2017,Y,Pacella et al.,nr10,9686140,37
+37,August 2017,Y,Roy et al.,nr10,9727881,38
+38,August 2005,Y,Olson et al.,nr10,2005/0171720,39
+39,November 2006,Y,Park et al.,nr10,2006/0268785,40
+40,March 2007,Y,Lee,nr10,2007/0066304,41
+41,May 2008,Y,Bennett et al.,nr10,2008/0117875,42
+42,July 2010,Y,Raleigh,nr10,2010/0191612,43
+43,December 2010,Y,Zhang,nr10,2010/0325232,44
+44,February 2011,Y,Klein et al.,nr10,2011/0029670,45
+45,November 2011,Y,Austin et al.,nr10,2011/0286437,46
+46,December 2011,Y,Beppler et al.,nr10,2011/0319071,47
+47,April 2012,Y,Gruen et al.,nr10,2012/0102164,48
+48,November 2012,Y,Lin et al.,nr10,2012/0303556,49
+49,November 2013,Y,Garin et al.,nr10,2013/0307723,50
+50,February 2014,Y,Gao et al.,nr10,2014/0036768,51
+51,March 2014,Y,Boldyrev et al.,nr10,2014/0067938,52
+52,March 2014,Y,Bane et al.,nr10,2014/0071895,53
+53,August 2014,Y,Chun,nr10,2014/0219181,54
+54,January 2015,Y,Shikama,nr10,2015/0009839,55
+55,February 2015,Y,Emadzadeh et al.,nr10,2015/0045054,56
+56,April 2015,Y,Chen,nr10,2015/0094088,57
+57,May 2015,Y,Tofighbakhsh et al.,nr10,2015/0134798,58
+58,May 2015,Y,Bane et al.,nr10,2015/0139074,59
+59,October 2015,Y,Cootey,nr10,2015/0304920,60
+60,November 2015,Y,Yoshizawa,nr10,2015/0333852,61
+61,December 2015,Y,Scherzer et al.,nr10,2015/0365881,62
+62,July 2016,Y,Abramson et al.,nr10,2016/0205238,63
+63,August 2016,Y,Brisebois et al.,nr10,2016/0242042,64
+64,October 2016,Y,Hart,nr10,2016/0309537,65
+65,November 2016,Y,Mayor et al.,nr10,2016/0345289,66
+66,December 2016,Y,Salter,nr10,2016/0351045,67
+67,December 2016,Y,Chow et al.,nr10,2016/0353314,68
+68,December 2016,Y,MacGougan et al.,nr10,2016/0359659,69
+69,January 2017,Y,Kwan,nr10,2017/0026888,70
+70,February 2017,Y,Nickolov et al.,nr10,2017/0034023,71
+71,February 2017,Y,Banin et al.,nr10,2017/0034657,72
+72,April 2017,Y,Mcnamee et al.,nr10,2017/0104609,73
+73,April 2017,Y,Chaiyochlarb et al.,nr10,2017/0104647,74
+74,July 2017,Y,Fischer et al.,nr10,2017/0208563,75
+75,August 2017,Y,Jain et al.,nr10,2017/0222901,76
+76,Apr 2015,N,CN,nr10,104579854,1001
+77,Nov 2013,N,EP,nr10,2663120,1002
+78,Apr 2015,N,EP,nr10,2853122,1003
+79,Jun 2015,N,EP,nr10,2880606,1004
+80,Jun 2012,N,WO,nr10,2012075052,1005
+81,Oct 2015,N,WO,nr10,2015161519,1006
+82,Jul 2017,N,WO,nr10,2017114969,1007
+0,May 2001,Y,Yuen et al.,nr16,6239794,1
+1,January 2003,Y,Knowles,nr16,6505348,2
+2,May 2003,Y,Satterfield et al.,nr16,6564378,3
+3,January 2007,Y,Boyer et al.,nr16,7165098,4
+4,July 2010,Y,Ellis et al.,nr16,7761892,5
+5,October 2011,Y,Ellis et al.,nr16,8046801,6
+6,August 2014,Y,Crandall,nr16,8798444,7
+7,November 2002,Y,Ellis et al.,nr16,2002/0174430,8
+8,November 2005,Y,Ellis et al.,nr16,2005/0251827,9
+9,July 2007,Y,Yokozawa,nr16,2007/0171198,10
+10,January 2009,Y,Nakamura,nr16,2009/0007184,11
+11,April 2010,Y,Shintani,nr16,2010/0107185,12
+12,May 2010,Y,Byun,nr16,2010/0109973,13
+13,June 2010,Y,Yates,nr16,2010/0153885,14
+14,September 2012,Y,Chen,nr16,2012/0224834,15
+15,September 2013,Y,Du,nr16,2013/0229582,16
+16,September 2013,Y,Du,nr16,2013/0243388,17
+17,June 2014,Y,Newell,nr16,2014/0152899,18
+18,September 2014,Y,Shin,nr16,2014/0253816,19
+19,February 2015,Y,Schanin,nr16,2015/0042887,20
+20,June 2015,Y,Salmela,nr16,2015/0178227,21
+21,March 2017,Y,Natarajan,nr16,2017/0070762,22
+0,September 2010,Y,Weiser et al.,nr12,7801538,1
+1,December 2012,Y,Shutter,nr12,8335524,2
+2,June 2013,Y,Yariv et al.,nr12,8471701,3
+3,June 2013,Y,Yariv et al.,nr12,8537003,4
+4,November 2013,Y,Doyle,nr12,8593276,5
+5,August 2014,Y,Boyle,nr12,8798643,6
+6,November 2016,Y,Tipton,nr12,9503853,7
+7,August 2018,Y,Tipton,nr12,10051420,8
+8,January 2003,Y,Callegari,nr12,2003/0004802,9
+9,July 2005,Y,Zou et al.,nr12,2005/0156715,10
+10,October 2006,Y,Othmer et al.,nr12,2006/0236257,11
+11,July 2007,Y,Halcrow,nr12,2007/0167174,12
+12,May 2008,Y,Carani et al.,nr12,2008/0125965,13
+13,June 2008,Y,Altman et al.,nr12,2008/0133336,14
+14,February 2010,Y,Monday et al.,nr12,2010/0042940,15
+15,October 2010,Y,Koen et al.,nr12,2010/0253508,16
+16,January 2012,Y,Sheha et al.,nr12,2012/0001928,17
+17,May 2012,Y,Zheng,nr12,2012/0115453,18
+18,August 2012,Y,Agulnek,nr12,2012/0197690,19
+19,August 2012,Y,Davis et al.,nr12,2012/0214515,20
+20,September 2012,Y,Tholkes et al.,nr12,2012/0225672,21
+21,November 2012,Y,Evans,nr12,2012/0284093,22
+22,December 2012,Y,Grosman et al.,nr12,2012/0307645,23
+23,April 2013,Y,Shutter,nr12,2013/0091016,24
+24,April 2013,Y,Sorden et al.,nr12,2013/0091452,25
+25,April 2013,Y,Sheshadri et al.,nr12,2013/0099977,26
+26,May 2013,Y,Busch,nr12,2013/0130719,27
+27,August 2013,Y,Burkett,nr12,2013/0218595,28
+28,October 2013,Y,"Zeto, III et al.",nr12,2013/0275221,29
+29,November 2013,Y,Hunter et al.,nr12,2013/0297422,30
+30,April 2014,Y,Yoo,nr12,2014/0113661,31
+31,January 2015,Y,Edge,nr12,2015/0024782,32
+32,November 2015,Y,Zhang,nr12,2015/0331583,33
+33,December 2015,Y,Civanlar et al.,nr12,2015/0356607,34
+34,December 2015,Y,Farrell,nr12,2015/0365787,35
+35,Sep 2012,N,AU,nr12,2012100971,1001
+36,Jun 2013,N,WO,nr12,2013086028,1002
+37,Feb 2014,N,WO,nr12,2014032039,1003
+0,February 2000,Y,Satarasinghe,nr8,6026301,1
+1,March 2009,Y,Tucker,nr8,7504547,2
+2,February 2016,Y,Palanki et al.,nr8,9265049,3
+3,January 2018,Y,Jung et al.,nr8,9867103,4
+4,March 2006,Y,Turner et al.,nr8,2006/0042734,5
+5,February 2010,Y,Deshpande,nr8,2010/0048217,6
+6,November 2010,Y,Choi-Grogan et al.,nr8,2010/0278141,7
+7,May 2012,Y,Jung et al.,nr8,2012/0106516,8
+8,June 2013,Y,Yoo et al.,nr8,2013/0157643,9
+9,February 2014,Y,Henry et al.,nr8,2014/0045505,10
+10,August 2014,Y,Josiam et al.,nr8,2014/0241242,11
+11,March 2015,Y,Seo,nr8,2015/0071206,12
+12,May 2007,N,CN,nr8,2904127,1001
+13,May 2012,N,CN,nr8,202217318,1002
+14,Jan 2012,N,JP,nr8,2012010065,1003
+15,Oct 2013,N,WO,nr8,2013151327,1004

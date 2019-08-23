@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8190c187-388c-41e0-a9ee-bedad948c484" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="patentCapture" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patentCapture/spiders/uspatent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="40" column="356" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="356" />
+              <folding>
+                <element signature="e#25#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>urljoin</find>
+      <find>adanced</find>
+      <find>&lt;tr&gt;</find>
+      <find>detail_item</find>
+      <find>None</find>
+      <find>DEFAULT_REQUEST_HEADERS</find>
+      <find>print</find>
+      <find>count</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>advanced</replace>
+      <replace>ti_item</replace>
+      <replace>flag</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/patentCapture/1.txt" />
+        <option value="$PROJECT_DIR$/patentCapture/items.py" />
+        <option value="$PROJECT_DIR$/patentCapture/utils.py" />
+        <option value="$PROJECT_DIR$/patentCapture/middlewares.py" />
+        <option value="$PROJECT_DIR$/patentCapture/download/page/10,264,186.html" />
+        <option value="$PROJECT_DIR$/patentCapture/settings.py" />
+        <option value="$PROJECT_DIR$/patentCapture/spiders/uspatent.py" />
+        <option value="$PROJECT_DIR$/patentCapture/pipelines.py" />
+        <option value="$PROJECT_DIR$/patentCapture/spiders/citedpatent.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="patentCapture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="patentCapture" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pyyyy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.crawl">
+    <configuration name="crawl (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="patentCapture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Python/Anaconda/Lib/site-packages/scrapy/cmdline.py" />
+      <option name="PARAMETERS" value="crawl citedpatent" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python">
+      <module name="patentCapture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Python/Anaconda/Lib/site-packages/scrapy/cmdline.py" />
+      <option name="PARAMETERS" value="crawl uspatent" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.crawl" />
+      <item itemvalue="Python.crawl (1)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8190c187-388c-41e0-a9ee-bedad948c484" name="Default Changelist" comment="" />
+      <created>1554714194320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554714194320</updated>
+      <workItem from="1554714206932" duration="664000" />
+      <workItem from="1554714954714" duration="57000" />
+      <workItem from="1554715093107" duration="1377000" />
+      <workItem from="1554728105002" duration="11144000" />
+      <workItem from="1554783236922" duration="2611000" />
+      <workItem from="1554801682847" duration="6609000" />
+      <workItem from="1554809346400" duration="2677000" />
+      <workItem from="1554812280261" duration="7162000" />
+      <workItem from="1554820631194" duration="3264000" />
+      <workItem from="1554872217371" duration="672000" />
+      <workItem from="1554874908987" duration="1073000" />
+      <workItem from="1554886023184" duration="1921000" />
+      <workItem from="1554893795652" duration="5318000" />
+      <workItem from="1554907787167" duration="2335000" />
+      <workItem from="1554910221962" duration="2141000" />
+      <workItem from="1554957485789" duration="6046000" />
+      <workItem from="1554974392946" duration="15122000" />
+      <workItem from="1555042360601" duration="2387000" />
+      <workItem from="1555063137686" duration="9975000" />
+      <workItem from="1555137131065" duration="4696000" />
+      <workItem from="1555144400938" duration="2393000" />
+      <workItem from="1555152612597" duration="12911000" />
+      <workItem from="1555227609844" duration="18769000" />
+      <workItem from="1555305844749" duration="3646000" />
+      <workItem from="1555327933960" duration="11749000" />
+      <workItem from="1555341415918" duration="815000" />
+      <workItem from="1555377062049" duration="287000" />
+      <workItem from="1555379958317" duration="4317000" />
+      <workItem from="1555384727273" duration="3924000" />
+      <workItem from="1555395038777" duration="3534000" />
+      <workItem from="1555407798191" duration="1103000" />
+      <workItem from="1555424274822" duration="593000" />
+      <workItem from="1555427502000" duration="2166000" />
+      <workItem from="1555475139054" duration="2605000" />
+      <workItem from="1555487102427" duration="3055000" />
+      <workItem from="1555491196149" duration="8305000" />
+      <workItem from="1555579632472" duration="13240000" />
+      <workItem from="1555599209921" duration="942000" />
+      <workItem from="1555684403704" duration="7394000" />
+      <workItem from="1555745942998" duration="17305000" />
+      <workItem from="1555768578988" duration="1877000" />
+      <workItem from="1555770597472" duration="1127000" />
+      <workItem from="1555772345181" duration="654000" />
+      <workItem from="1555775447839" duration="4492000" />
+      <workItem from="1555837467014" duration="18830000" />
+      <workItem from="1555906256028" duration="1854000" />
+      <workItem from="1555908637877" duration="830000" />
+      <workItem from="1555910096150" duration="7816000" />
+      <workItem from="1555919574148" duration="6880000" />
+      <workItem from="1555931638131" duration="12710000" />
+      <workItem from="1556365968491" duration="471000" />
+      <workItem from="1556809048751" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="263898000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.1633888" />
+      <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.18154311" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008518" side_tool="true" weight="0.15506808" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6628478" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30730897" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32733223" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.43371522" />
+      <window_info anchor="bottom" x="22" y="145" width="1322" height="437" id="Terminal" order="11" sideWeight="0.49924356" weight="0.66448444" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.28449744" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.2473525" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.17019667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008518" side_tool="true" weight="0.15506808" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2111293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.43371522" />
+      <window_info anchor="bottom" x="22" y="145" width="1322" height="437" id="Terminal" order="11" sideWeight="0.49924356" weight="0.39443535" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.28449744" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.2473525" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="assignee" language="Python" />
+        <watch expression="split_assignee" language="Python" />
+        <watch expression="ass_item" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/patentCapture$utils.coverage" NAME="utils Coverage Results" MODIFIED="1555856856286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/patentCapture" />
+    <SUITE FILE_PATH="coverage/patentCapture$uspatent.coverage" NAME="uspatent Coverage Results" MODIFIED="1555336513108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/patentCapture/spiders" />
+    <SUITE FILE_PATH="coverage/patentCapture$crawl__1_.coverage" NAME="crawl (1) Coverage Results" MODIFIED="1555917090938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/patentCapture$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1555936192346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>self.count==int(10)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==50</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==40</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==20</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==10</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.count==20</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>ass_item</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>split_assignee</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>assignee</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inv_item</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inv_base_item_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>litref.index(litref)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>litref_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>litref</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lit_base_item_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>litref_item</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>split_assignee</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,802,286.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,814,524.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,787,755.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,787,750.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,830,777.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/9,440,313.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/D638,032.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/7,754,307.json" />
+    <entry file="file://$PROJECT_DIR$/data.csv" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/utils.py" />
+    <entry file="file://E:/JetBrains/.PyCharm/system/python_stubs/285666923/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="721" column="6" selection-start-line="721" selection-start-column="6" selection-end-line="721" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/scrapy/utils/trackref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1846" column="6" selection-start-line="1846" selection-start-column="6" selection-end-line="1846" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77919">
+          <caret line="4148" column="8" selection-start-line="4148" selection-start-column="8" selection-end-line="4148" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/exporters/patref.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/exporters/inv.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/exporters/litref.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="2881" column="16" selection-start-line="2881" selection-start-column="16" selection-end-line="2881" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/exporters/ti.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="630" selection-start-line="630" selection-end-line="630" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/8,171,399.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/8,170,183.json" />
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/fake_useragent/fake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,154,979.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,155,020.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,174,544.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,174,488.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,173,239.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,171,566.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,171,507.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,171,401.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,171,399.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,596.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,505.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,482.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,183.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,107.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,164,990.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/8,170,923.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/citiedurl/8,155,711.json" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/exporters/ass.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/download/page/10,264,186.html" />
+    <entry file="file://$PROJECT_DIR$/patentCapture/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="11" />
+          <folding>
+            <element signature="e#169#183#0" />
+            <element signature="e#219#276#0" />
+            <element signature="e#318#394#0" />
+            <element signature="e#411#426#0" />
+            <element signature="e#559#718#0" />
+            <element signature="e#770#844#0" />
+            <element signature="e#893#970#0" />
+            <element signature="e#1015#1161#0" />
+            <element signature="e#1205#1744#0" />
+            <element signature="e#1795#1849#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Anaconda/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="89" column="44" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/spiders/citedpatent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="220" column="17" lean-forward="true" selection-start-line="220" selection-start-column="17" selection-end-line="220" selection-end-column="17" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+            <element signature="e#972#1315#0" />
+            <element signature="e#1352#2896#0" />
+            <element signature="e#1398#2896#0" />
+            <element signature="e#2940#4519#0" />
+            <element signature="e#4564#5607#0" />
+            <element signature="e#5652#7103#0" />
+            <element signature="e#7151#8987#0" />
+            <element signature="e#9131#10091#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="93" column="61" selection-start-line="93" selection-start-column="61" selection-end-line="93" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patentCapture/spiders/uspatent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" column="356" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="356" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,159 @@
+,ab,applnr,assistant_examiner,attorney,current_International_class,date,field_of_search,filed,nr,patnr,primary_examiner,ti,year
+0," Some demonstrative embodiments include apparatuses, systems and/or
+     methods of discovering a wireless communication device. For example, a
+     first wireless device may include a radio to communicate over a wireless
+     communication medium according to a discovery scheme including a
+     plurality of contention-based discovery windows (DWs), the radio to
+     communicate with a second wireless device a discovery frame during a
+     first discovery process, the discovery frame including an indication of
+     one or more selected DWs of the plurality of DWs; and a controller to
+     switch the first wireless device between a power save state and an active
+     state, the controller to switch the first wireless device to operate in
+     the active state in the one or more selected discovery windows to
+     discover the second wireless device during a second discovery process,
+     subsequent to the first discovery process.
+","15/390,595",,Shichrur &amp; Co.,H04W 76/27&nbsp(20180101); H04W 8/00&nbsp(20090101); H04W 52/02&nbsp(20090101),"April 23, 2019",,"December 26, 2016",nr7,"10,271,277", Nguyen; Hanh N,"Apparatus, system and method of discovering a wireless communication
+     device
+", 2019
+0," An example system includes a first beacon configured to communicate a
+     first wireless signal. A first hub is in communication with the first
+     beacon. The first hub is configured to detect a first signal strength of
+     the first wireless signal. The example system further includes a second
+     hub in communication with the first beacon. The second hub is configured
+     to detect a second signal strength of the first wireless signal. The
+     example system further includes a computing system in communication with
+     the first hub and the second hub. The computing system includes a noise
+     filter and a beacon assignor. The noise filter includes a quadratic
+     estimator configured to output a first estimated distance between the
+     first beacon and the first hub, output a second estimated distance
+     between the first beacon and the second hub, and disregard a third
+     estimated distance between the first beacon and the first hub if the
+     third estimated distance is derived from a ghost signal. The beacon
+     assignor is configured to assign the first beacon to the first hub if the
+     first estimated distance is less than the second estimated distance.
+","15/636,449",,Quarles &amp; Brady LLP,H04B 17/27&nbsp(20150101); H04B 17/318&nbsp(20150101); H04W 4/80&nbsp(20180101); H04W 64/00&nbsp(20090101),"April 23, 2019",;455/456.1-457,"June 28, 2017",nr5,"10,271,301", Figueroa; Marisol,"Systems and methods for tracking items
+", 2019
+0," In some aspects, a method for configuring channel access parameters in a
+     wireless communication system includes determining, at an access point,
+     an enhanced distributed channel access (EDCA) parameter for a first
+     subset of stations of a plurality of stations, the first subset of
+     stations capable of transmitting multi-user uplink transmissions. The
+     method further includes generating an information element including the
+     EDCA parameter. The method further includes transmitting the information
+     element such that the information element is decodable by the first
+     subset of stations and not by a second subset of stations of the
+     plurality of stations.
+","15/405,218",,"Knobbe, Martens, Olson &amp; Bear, LLP",H04W 24/10&nbsp(20090101); H04W 74/08&nbsp(20090101); H04W 72/12&nbsp(20090101); H04B 7/0452&nbsp(20170101); H04W 72/04&nbsp(20090101); H04W 74/00&nbsp(20090101); H04W 88/08&nbsp(20090101),"April 23, 2019",,"January 12, 2017",nr4,"10,271,353", Roberts; Brian S,"Methods and apparatus for selecting enhanced distributed channel access
+     parameters for different stations
+", 2019
+0," A communication apparatus establishes, in parallel, a first wireless
+     connection for connecting to a first target apparatus via an external
+     apparatus and second wireless connection for directly connecting to a
+     second target apparatus without the external apparatus. The communication
+     apparatus includes a processor executing instructions to use a first
+     communication protocol needing an anti-conflict measure or a second
+     communication protocol not needing the anti-conflict measure. In a case
+     where a first communication protocol is used, after the first wireless
+     connection has been disconnected during the first wireless connection and
+     the second wireless connection being maintained in parallel, information
+     for stopping the communication is sent to the second target apparatus,
+     and then reconnection processing with the first target apparatus is
+     performed and the second target apparatus is notified of information
+     related to reconnection. In a case where a second communication protocol
+     is used, after the first wireless connection has been disconnected during
+     the first wireless connection and the second wireless connection being
+     maintained in parallel, reconnection processing is performed with the
+     first target apparatus without notifying the second target apparatus of
+     information related to reconnection.
+","15/592,524",,Venable LLP,H04W 84/00&nbsp(20090101); H04W 76/15&nbsp(20180101); H04W 48/14&nbsp(20090101); H04W 76/19&nbsp(20180101); H04W 76/14&nbsp(20180101),"April 23, 2019",,"May 11, 2017",nr3,"10,271,368", Aung; Sai,"Communication apparatus having parallel wireless connection, communication
+     method, and non-transitory computer-readable storage medium
+", 2019
+0," A method, a device, and a non-transitory storage medium provide storing
+     context information pertaining to an end device and previous attachments
+     of the end device to the network; receiving an indication that the end
+     device requests an attachment to the network subsequent to the storing
+     and subsequent to previously occurring detachments of the end device;
+     authenticating the end device using the context information during the
+     attachment; and causing a creation of a bearer connection between the end
+     device and the network using the context information and during the
+     attachment.
+","15/912,998",,,H04W 76/19&nbsp(20180101); H04W 8/24&nbsp(20090101); H04W 48/18&nbsp(20090101); H04W 12/06&nbsp(20090101); H04W 8/18&nbsp(20090101); H04W 8/26&nbsp(20090101),"April 23, 2019",;455/435.1,"March 6, 2018",nr2,"10,271,369", Ajayi; Joel,"System and method for reattachment to a network
+", 2019
+0," Methods, systems, and devices for enhanced neighbor discovery through
+     enhanced automatic neighbor relations (ANR) and for detecting cell
+     identifier confusion and are described. Neighboring base stations may
+     provide information to one another, including using ANR, that may avoid
+     or help to resolve cell identity confusion. For example, a NHN-ID may be
+     defined to avoid or resolve cell identify confusion. A wireless device,
+     such as a base station or a user equipment (UE), may determine whether
+     neighboring cells are using a common cell identifier and may adjust
+     operations accordingly. For example, a device may detect physical cell
+     identity (PCI) confusion by determining whether two neighboring cells
+     have the same PCI and different Evolved Universal Terrestrial Access
+     Network (E-UTRAN) Cell Global Identifiers (ECGIs) or different Neutral
+     Host Network Identifier (NHN-IDs). A network entity may then inform the
+     neighboring cells having the same PCI of the confusion.
+","15/492,510",,<coma>Gunderson; Linda G.,H04W 24/02&nbsp(20090101); H04W 16/14&nbsp(20090101); H04W 36/00&nbsp(20090101); H04W 88/08&nbsp(20090101),"April 23, 2019",";370/328,236,331,329,350 ;455/454,450,456.1,410,501,442","April 20, 2017",nr11,"10,271,227", Doan; Kiet M,"Enhanced neighbor relations and physical cell identifier confusion
+     detection
+", 2019
+0," Determination of a current location of a mobile device based on exchange
+     of messages between the mobile device and a remote device. The
+     determination can be originated from the remote device and can be
+     performed, in certain embodiments, by a system within a network that
+     provides services to the mobile device. The location of the mobile device
+     can be determined without reliance on a dedicated location service module
+     (e.g., software or firmware) at the user equipment. The system can
+     utilize signals from a global navigation satellite system or signals
+     time-of-flight terrestrial signals emitted and/or received at the mobile
+     device. In addition, the system can provide location information
+     associated with the mobile device in response to a prompt from the remote
+     device in instances in which the remote device is authorized to receive
+     location information. An authorized remote device can be or can include a
+     device associated with the user equipment or a third-party device.
+","15/901,661",,"Amin, Turocy &amp; Watson, LLP",H04W 24/00&nbsp(20090101); H04W 4/12&nbsp(20090101); G06Q 50/26&nbsp(20120101); H04W 76/50&nbsp(20180101); H04W 4/02&nbsp(20180101); H04L 29/06&nbsp(20060101); H04W 4/90&nbsp(20180101); H04W 12/08&nbsp(20090101),"April 23, 2019",";455/456.2,456.3","February 21, 2018",nr13,"10,271,170", Shedrick; Charles T,"Determination of location of a mobile device
+", 2019
+0," Collection of crowd-sourced access point quality and selection data for
+     intelligent network selection can be utilized by mobile devices to
+     self-learn and optimize access point device selection. A cloud-based
+     application can be utilized in conjunction with the mobile device to
+     build a database of access point quality and thresholds suitable for
+     real-time and other jitter-sensitive services. The mobile device jitter
+     measurements and selection thresholds can be collected and sent to a
+     cloud platform, which creates an access point performance and selection
+     threshold profile.
+","15/721,326",,"Amin, Turocy &amp; Watson, LLP",H04B 17/364&nbsp(20150101); H04W 24/02&nbsp(20090101); H04W 24/10&nbsp(20090101),"April 23, 2019",,"September 29, 2017",nr10,"10,271,236"," Dean, Jr.; Joseph E","Collection of crowd-sourced access point data for 5G or other next
+     generation network
+", 2019
+0," Systems and methods for detecting a conflict between viewing selections
+     of two users. In some aspects, the method comprises generating for
+     display a first media asset on a user equipment device, receiving a
+     second request from a second user to generate for display a second media
+     asset on the user equipment device, determining a first priority and a
+     second priority associated with the first user and the second user, and
+     based on determining that a first scheduled time period of the first
+     media asset and a second scheduled time period of the first media asset
+     overlap and the first priority is higher than the second priority,
+     generating for display on the user equipment device an indication of a
+     conflict between the first request and the second request.
+","15/657,831",,Haley Guiliano LLP,H04N 21/45&nbsp(20110101); H04N 21/458&nbsp(20110101); H04N 21/472&nbsp(20110101); H04N 21/2187&nbsp(20110101); H04N 21/435&nbsp(20110101),"April 23, 2019",,"July 24, 2017",nr16,"10,271,102", Hance; Robert J,"Systems and methods for conflict detection based on user preferences
+", 2019
+0," A network device can be placed in a central location to detect and
+     disseminate mobile device data via a wireless network. The network device
+     actions can be determined by an end-user device that receives
+     subscription-based data. The end-user can determine parameters for
+     communication between the network, network device, and the mobile device
+     and determine actions based on the communication.
+","16/035,898",,"Amin, Turocy &amp; Watson, LLP",H04W 24/00&nbsp(20090101); H04W 4/18&nbsp(20090101); H04M 1/725&nbsp(20060101); G06Q 30/02&nbsp(20120101); H04W 4/02&nbsp(20180101); H04W 4/029&nbsp(20180101); H04W 64/00&nbsp(20090101); H04W 84/12&nbsp(20090101),"April 23, 2019",,"July 16, 2018",nr12,"10,271,174", Washington; Erika A,"Aggregation of mobile device data for facilitation of rule-based action
+", 2019
+0," A User Equipment (UE) device operates to directly determine a target
+     small cell for access or handover with the assistance of a macro cell
+     network. The UE directly generates the connection and selects which small
+     cell to access from among a subset of small cells chosen of a set of
+     candidate small cells. The UE is provided dedicated assistance
+     information from the evolved node B (eNB) or macro network device. The
+     dedicated assistance information enables the UE to measure data from the
+     candidate small cells within a heterogeneous network environment. The UE
+     shares the measured data and connects directly to the selected small cell
+     for an access or handover operation.
+","15/508,331",,"Eschweiler &amp; Potashnik, LLC",H04W 36/04&nbsp(20090101); H04W 48/20&nbsp(20090101); H04W 36/00&nbsp(20090101); H04W 48/12&nbsp(20090101); H04W 36/02&nbsp(20090101); H04W 16/32&nbsp(20090101),"April 23, 2019",";455/436,437,446 ;370/329,332","June 24, 2015",nr8,"10,271,252", Bhattacharya; Sam,"Mobile communication in macro-cell assisted small cell networks
+", 2019
